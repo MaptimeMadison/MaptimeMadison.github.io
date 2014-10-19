@@ -2,7 +2,7 @@ baseurl:  /madison
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: maptimemadison.github.io
+repo: madison
 github_org: maptime
 maptime:
   chapter: Maptime Madison
