@@ -3,7 +3,7 @@ permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: madison
-github_org: maptime
+github_org: https://github.com/MaptimeMadison/madison
 maptime:
   chapter: Maptime Madison
   twitter: MaptimeMadison
